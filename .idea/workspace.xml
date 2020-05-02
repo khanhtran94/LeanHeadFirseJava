@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920f930b-5f57-4eac-8399-0a799e9a979a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1/TestBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/TestBoolean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1bKivx3oJm5jyyq75wxo88JycV6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,7 +45,33 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Application.TestBoolean">
+  <component name="RunManager" selected="Application.GameLaucher">
+    <configuration name="FixError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap1.FixError" />
+      <module name="LearnHeadFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLaucher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap2.GameLaucher" />
+      <module name="LearnHeadFirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap1.TestBoolean" />
       <module name="LearnHeadFirstJava" />
@@ -156,6 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameLaucher" />
+        <item itemvalue="Application.FixError" />
         <item itemvalue="Application.TestBoolean" />
       </list>
     </recent_temporary>
@@ -194,54 +222,75 @@
       <updated>1588387419495</updated>
       <workItem from="1588387422266" duration="88000" />
       <workItem from="1588387725670" duration="107000" />
-      <workItem from="1588388107287" duration="375000" />
+      <workItem from="1588388107287" duration="1100000" />
+      <workItem from="1588408958186" duration="1033000" />
+      <workItem from="1588433870261" duration="904000" />
     </task>
+    <task id="LOCAL-00001" summary="99 bottles">
+      <created>1588388634049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588388634049</updated>
+    </task>
+    <task id="LOCAL-00002" summary="99 bottles">
+      <created>1588388645880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588388645880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="99 bottles" />
+    <option name="LAST_COMMIT_MESSAGE" value="99 bottles" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588387766814">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588409053028">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588387766814" />
-    <state x="313" y="62" key="CommitChangelistDialog2" timestamp="1588388633927">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588409053028" />
+    <state x="313" y="62" key="CommitChangelistDialog2" timestamp="1588388645796">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="313" y="62" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588388633927" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1588388639520">
+    <state x="313" y="62" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588388645796" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1588434675593">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588388639520" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1588388639519">
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588434675593" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1588434675593">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588388639519" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1588388639519">
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588434675593" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1588434675592">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588388639519" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1588388639520">
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588434675592" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1588434675593">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588388639520" />
-    <state width="958" height="230" key="GridCell.Tab.1.bottom" timestamp="1588387832009">
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588434675593" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1588411520844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="958" height="230" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588387832009" />
-    <state width="958" height="230" key="GridCell.Tab.1.center" timestamp="1588387832009">
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588411520844" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1588411520844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="958" height="230" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588387832009" />
-    <state width="958" height="230" key="GridCell.Tab.1.left" timestamp="1588387832008">
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1588411520844" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1588411520844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="958" height="230" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588387832008" />
-    <state width="958" height="230" key="GridCell.Tab.1.right" timestamp="1588387832009">
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1588411520844" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1588411520844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="958" height="230" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588387832009" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1588411520844" />
     <state width="958" height="230" key="GridCell.Tab.2.bottom" timestamp="1588387832010">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -258,6 +307,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="958" height="230" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1588387832010" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1588388670226">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588388670226" />
     <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1588387447467">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
