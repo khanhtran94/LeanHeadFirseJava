@@ -23,6 +23,7 @@ public class Triangle {
             x = x + 1;
 
         }
+        System.out.println("123");
         int y = x;
         x = 27;
         Triangle t5 = ta[2];
